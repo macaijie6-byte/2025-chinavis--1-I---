@@ -1,0 +1,7 @@
+pandas
+openpyxl
+requests
+tqdm
+fastapi
+uvicorn
+volcenginesdkarkruntime
